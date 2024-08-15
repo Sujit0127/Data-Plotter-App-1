@@ -18,6 +18,7 @@ Customize Plot: Select trace modes, titles, and bit manipulation options.
 Generate Plot: Press "Plot" to generate the graph.
 Save as HTML: Optionally save the plot as an interactive HTML file.
 Requirements:
+<br>
   1.appJar
   2.pandas
   3.numpy
