@@ -12,7 +12,7 @@ Interactive Plot Generation: Choose from multiple trace modes (lines, markers, o
 Save as HTML: Save plots as interactive HTML files.
 Real-time Logging: Log important events like loading files, plotting, and errors.
 Supports Multiple File Formats: Works with both .txt and .xlsx files.
-<br>
+
 # How to Use:
 <br>
 Load a Data File: Drag and drop a telemetry data file or load it via the file input.
@@ -20,10 +20,13 @@ Select Axes: Choose the X and Y axes from the file's data columns.
 Customize Plot: Select trace modes, titles, and bit manipulation options.
 Generate Plot: Press "Plot" to generate the graph.
 Save as HTML: Optionally save the plot as an interactive HTML file.
-<br>
+
 # Requirements:
 <br>
   1.appJar
+  <br>
   2.pandas
+  <br>
   3.numpy
+  <br>
   4.plotly
