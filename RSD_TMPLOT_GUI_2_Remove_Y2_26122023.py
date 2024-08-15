@@ -430,9 +430,9 @@ ui.stopTab() #End settings tab
 ##About TAB
 ui.startTab("About")
 #ui.addLabel(Tlemetry Data ploting)
-ui.addImage("test","DRDL.gif")
+ui.addImage("test","SUJIT.gif")
 ui.zoomImage("test",-13)
-ui.addLabel('Version', 'RANGE   SYSTEM   DIVISION (RSD) {}'.format(Date))
+ui.addLabel('Version', 'SUJIT APP{}'.format(Date))
 ui.addButton('Debug', press)
 ui.setButton('Debug', 'Debug OFF')
 ui.addEmptyMessage('Debug Messages')
