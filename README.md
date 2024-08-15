@@ -1,5 +1,5 @@
 # Data-Plotter-App-1
-Telemetry Data Plotting Application
+# Telemetry Data Plotting Application
 
 This Python application, built using appJar, is designed to plot telemetry data from files (TXT, XLSX). The app provides an intuitive graphical user interface (GUI) for selecting X and Y axes for the plot, applying various trace modes (Lines, Markers, Lines+Markers), and generating plots with Plotly.
 
